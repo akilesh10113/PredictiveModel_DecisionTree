@@ -58,5 +58,4 @@ The Decision Tree model achieved **97.36% accuracy** on the test set, showing st
 
 Below is a sample output from the project showing the final accuracy and a performance plot:
 
-![Decision Tree Result](<img width="466" height="541" alt="Decision Tree" src="https://github.com/user-attachments/assets/d0dc4ab9-c27c-4d41-b348-f9d99a37025c" />
-)
+<img src="Decision Tree.png" alt="Decision Tree Output" width="800"/>
